@@ -1,0 +1,2 @@
+# ZEDAsyncOperation
+一个实现并发的NSOperation抽象类，用于创建和执行异步任务
